@@ -25,6 +25,6 @@ Hi, I’m Abhigna Narra
 
 ##Connect with me here:
 
-- [LinkedIn](https://www.linkedin.com/in/abhigna-narra-05873b231/)
+- [LinkedIn] (https://www.linkedin.com/in/abhigna-narra-05873b231/)
 - Email: narraabhigna@gmail.com
 
