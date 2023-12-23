@@ -2,7 +2,7 @@
 
 ## About Me
 
-🔭 I am a Pre-Final year UG with majors in Computer Science at ABV-IIITM Gwalior from India.<br>
+🔭 I am a Pre-Final year UG with majors in Computer Science at ABV-IIITM Gwalior .<br>
 👩‍💻 I find my technical interests in Problem Solving, Machine Learning, and Data Analysis!
 
 ## Languages and Tools
