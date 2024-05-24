@@ -3,7 +3,7 @@
 ## About Me
 
 🔭 I am a Pre-Final year UG with majors in Computer Science at ABV-IIITM Gwalior .<br>
-👩‍💻 I find my technical interests in Problem Solving, Machine Learning, and Data Science!
+👩‍💻 I find my technical interests in Problem Solving, Machine Learning, and Web Development!
 
 ## Languages and Tools
 <p align="center">
